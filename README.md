@@ -10,7 +10,7 @@ A Java Swing-based classroom management system for teachers and students.
 - ## 🖼️ Project Screenshots
 
 ### 🌿 Main Page
-![Main Page](main_page.png)
+![Main Page](Main_page.png)
 
 ### 👨‍🏫 Teacher Portal
 ![Teacher Portal](teacher_portal.png)
